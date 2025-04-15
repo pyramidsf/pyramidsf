@@ -2,7 +2,7 @@
 ## Software Engineering Student 
 I've been studying software engineering at Universidade de Brasília (UnB) since 2023. Committed to continuous growth and skill development to contribute effectively to the technology field. Focused on overcoming challenges with creativity and innovation in problem-solving.  
 * 🌍  I'm based in Brasília, Brazil
-* ✉️  You can contact me at [LinkedIn](mailto:LinkedIn )
+* ✉️  You can contact me at [LinkedIn](www.linkedin.com/in/maria-eduarda-de-amorim-software)
 * I'm open to collaborating on web development, software engineering projects, and innovative tech solutions.
 
 ### Skills 
